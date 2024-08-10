@@ -22,3 +22,9 @@ This project leverages machine learning models built on Natural Language Process
 If you're interested in enhancing this project, contributions are highly welcome! Whether it's refining the existing model, adding new features, or improving the codebase, feel free to fork the repository and submit a pull request.
 
 Dive in, explore, and perhaps even take on the challenge of building a better sentiment analyzer!
+
+## Dataset
+
+The sentiment analysis in this project is based on a dataset available on Kaggle. You can access the dataset here:
+[Emotions Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data)
+
