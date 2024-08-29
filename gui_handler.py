@@ -1,6 +1,6 @@
 from tkinter import *
-from sentimentsMain import *
-from PreprocessingTxt import *
+from sentiments_main import *
+from preprocessing_txt import *
 
 clf = obtain_model()
 root = Tk()
