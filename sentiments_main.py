@@ -1,7 +1,7 @@
 # from pandasgui import show -- currently not using the show func nevertheless, you could obv
-from PredictionModel import *
-from AnalyzingInfo import *
-from PreprocessingTxt import *
+from prediction_model import *
+from analyzing_info import *
+from preprocessing_txt import *
 import pandas as pd
 # from sklearn.metrics import accuracy_score, f1_score, recall_score, precision_score
 
