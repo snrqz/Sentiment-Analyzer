@@ -1,6 +1,6 @@
 import random as rnd
-from AnalyzingInfo import *
-from PreprocessingTxt import *
+from analyzing_info import *
+from preprocessing_txt import *
 import numpy as np
 
 
